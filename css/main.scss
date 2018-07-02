@@ -1,2 +1,13 @@
 @import "variables";
 //@import "global";
+
+
+.tm-suits {
+  li {
+    background-color: #070055;
+
+    &.uk-active {
+      background-color: #fff;
+    }
+  }
+}

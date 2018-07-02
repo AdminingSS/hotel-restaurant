@@ -1,3 +1,6 @@
-
+.tm-suits li {
+  background-color: #070055; }
+  .tm-suits li.uk-active {
+    background-color: #fff; }
 
 /*# sourceMappingURL=main.css.map */
