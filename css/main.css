@@ -1,6 +1,11 @@
-.tm-suits li {
+.tm-suits-main li {
   background-color: #070055; }
-  .tm-suits li.uk-active {
+  .tm-suits-main li.uk-active {
     background-color: #fff; }
+.tm-suits-main .uk-subnav {
+  margin-left: 0; }
+
+.tm-instargam {
+  padding: 20px 0; }
 
 /*# sourceMappingURL=main.css.map */

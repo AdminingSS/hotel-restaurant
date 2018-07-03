@@ -2,7 +2,7 @@
 //@import "global";
 
 
-.tm-suits {
+.tm-suits-main {
   li {
     background-color: #070055;
 
@@ -10,4 +10,12 @@
       background-color: #fff;
     }
   }
+
+  .uk-subnav {
+    margin-left: 0;
+  }
+}
+
+.tm-instargam {
+  padding: 20px 0;
 }
