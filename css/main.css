@@ -7,5 +7,14 @@
 
 .tm-instargam {
   padding: 20px 0; }
+  .tm-instargam .tm-box-shadow-grey {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+    padding: 0; }
+
+.tm-map {
+  background: url(http://via.placeholder.com/800x600) no-repeat center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  min-height: 50vh; }
 
 /*# sourceMappingURL=main.css.map */
