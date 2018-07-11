@@ -1,3 +1,6 @@
+.tm-border-test {
+  border: 1px solid #000000; }
+
 .tm-suits-main li {
   background-color: #070055; }
   .tm-suits-main li.uk-active {
@@ -15,6 +18,8 @@
   background: url(http://via.placeholder.com/800x600) no-repeat center;
   -webkit-background-size: cover;
   background-size: cover;
-  min-height: 50vh; }
+  min-height: 300px; }
+  .tm-map .uk-container {
+    min-height: 300px; }
 
 /*# sourceMappingURL=main.css.map */

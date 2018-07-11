@@ -1,6 +1,9 @@
 @import "variables";
 //@import "global";
 
+.tm-border-test {
+  border: 1px solid #000000;
+}
 
 .tm-suits-main {
   li {
@@ -29,5 +32,9 @@
   background: url(http://via.placeholder.com/800x600) no-repeat center;
   -webkit-background-size: cover;
   background-size: cover;
-  min-height: 50vh;
+
+  min-height: 300px;
+  .uk-container {
+    min-height: 300px;
+  }
 }
